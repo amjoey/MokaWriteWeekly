@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LOGO Write Weekly</string>
+    <string name="timer1_on">Timer 1 ON</string>
+    <string name="timer1_off">Timer 1 OFF</string>
+</resources>
